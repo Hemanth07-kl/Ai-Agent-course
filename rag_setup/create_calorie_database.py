@@ -1,5 +1,9 @@
 """
-Script to convert calories.csv to text format for RAG database.
+Script to convert calories.csv to text format for RAG dat
+
+
+
+abase.
 Reads the CSV and creates formatted text documents for each food item.
 """
 
